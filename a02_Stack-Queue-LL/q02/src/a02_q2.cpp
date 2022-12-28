@@ -40,7 +40,7 @@ int main()
     }
     cout << "Created vector: ", printVector(myVect); cout << endl;
 
-    reverse(myVect.begin() + 5, myVect.end());
+    reverse(myVect.begin() + 6, myVect.end());
     cout << "Vector reversed from [6] to the end: ", printVector(myVect); cout << endl;
 
     cout << "Sum of odd elements: " << sumOddNums(myVect) << endl;

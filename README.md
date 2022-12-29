@@ -1,2 +1,1 @@
-# List
-IT 279 - Assignment 01
+# IT 279 - Algorithms & Data Structures
